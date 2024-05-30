@@ -93,7 +93,7 @@ class casual extends typist
  }
  void print_details()
  {
- System.out.println("code:"+this.get_code()+"\nname:"+this.get_name()+"\nspeed:"+this.get_speed()+" words per minute"+"\nwages:Rs"+this.
+ System.out.println("code:"+this.get_code()+"\nname:"+this.get_name()+"\nspeed:"+this.get_speed()+" words per minute"+"\nwages:Rs"+this.wages);
  }
 }
 public class Employee {
